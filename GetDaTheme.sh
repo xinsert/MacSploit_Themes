@@ -108,3 +108,4 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     r.importCssString(t.cssText, t.cssClass);
   });
   
+install_theme
