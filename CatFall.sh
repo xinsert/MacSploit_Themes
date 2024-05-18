@@ -27,4 +27,5 @@ main
 
     echo "[Abyss] Digital Software"
     echo "[Owner] Nexus42"
-    echo "DM Me On Discord With Theme Ideas And Join The Discord Server https://discord.gg/NASGRZa5NT For Scripts And (Maybe) More Exclusive Themes!
+    echo "[Install] Completed Sucessfully"
+    echo "DM Me On Discord With Theme Ideas And Join The Discord Server https://discord.gg/NASGRZa5NT For Scripts And (Maybe) More Exclusive Themes!"
