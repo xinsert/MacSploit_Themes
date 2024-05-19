@@ -3,7 +3,7 @@
 main() {
     cd /Applications/MacSploit.app/Contents/Resources/CodeViewer_CodeViewer.bundle/Contents/Resources/ace.bundle
     echo -e "Made By Hydradedgaming"
-    curl "https://raw.githubusercontent.com/hydradedgaming/MacSploit_Themes/main/GetDaTheme.js" -o "./theme-tomorrow_night.js"
+    curl "https://raw.githubusercontent.com/hydradedgaming/MacSploit_Themes/main/RunningGuy.js" -o "./theme-tomorrow_night.js"
 }
 
 print_ascii_art() {
