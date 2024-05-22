@@ -4,7 +4,6 @@
 main() {
 clear
     cd /Applications/MacSploit.app/Contents/Resources/CodeViewer_CodeViewer.bundle/Contents/Resources/ace.bundle
-    echo -e "Made By Hydradedgaming"
     curl "https://raw.githubusercontent.com/hydradedgaming/MacSploit_Themes/main/LemonTheme.js" -o "./theme-tomorrow_night.js"
 }
 
